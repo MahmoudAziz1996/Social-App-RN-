@@ -1,0 +1,11 @@
+export default {
+    ATTEMPTING: 'ATTEMPTING',
+    SIGN_SUCCESS: 'SIGN_SUCCESS',
+    SIGN_FAILED: 'SIGN_FAILED',
+    LOGIN_SUCCESS: 'LOGIN_SUCCESS',
+    ADDING_POST : 'ADDING_POST',
+    ADDING_SUCCESS : 'ADDING_SUCCESS',
+    ADDING_FAILED : 'ADDING_FAILED',
+    Fetshing:'Fetshing',
+    Fetshing_Done:'Fetshing_Done',
+}
